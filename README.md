@@ -1,5 +1,5 @@
 
-# Zenati: Your Mental Health Companion 🌿
+# Zenati: Your Mental Health Companion 
 
 Welcome to **Zenati**, your personalized mental health platform designed to provide support, self-care resources, and AI-powered assistance. We understand that mental well-being is a journey, and Mate is here to guide you every step of the way. 
 
