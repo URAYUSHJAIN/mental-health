@@ -1,7 +1,7 @@
 
-# Mate: Your Mental Health Companion 🌿
+# Zenati: Your Mental Health Companion 🌿
 
-Welcome to **Mate**, your personalized mental health platform designed to provide support, self-care resources, and AI-powered assistance. We understand that mental well-being is a journey, and Mate is here to guide you every step of the way. 
+Welcome to **Zenati**, your personalized mental health platform designed to provide support, self-care resources, and AI-powered assistance. We understand that mental well-being is a journey, and Mate is here to guide you every step of the way. 
 
 ### 🌐 [Live Website](https://mate.netlify.app/)
 
@@ -34,7 +34,6 @@ A responsive, user-friendly design ensures seamless navigation and usage.
 - **JavaScript**
 - **Botsonic AI API** for chatbot integration
 - **Animate.css** for smooth animations
-- **Netlify** for deployment
 
 ---
 
@@ -45,12 +44,7 @@ A responsive, user-friendly design ensures seamless navigation and usage.
    git clone https://github.com/yourusername/mate.git
    ```
 
-2. Navigate to the project folder:
-   ```bash
-   cd mate
-   ```
-
-3. Open `index.html` in your browser to explore the platform locally.
+2. Open `index.html` in your browser to explore the platform locally.
 
 ---
 
@@ -72,20 +66,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## Contact 📬
-
-For any inquiries or feedback, feel free to reach out:
-
-- **Email**: [yourname@example.com](mailto:yourname@example.com)  
-- **GitHub**: [@yourusername](https://github.com/yourusername)  
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourname)
-
----
-
 Together, let’s make mental health support accessible and compassionate for everyone. 💚
 
---- 
 
-### Preview of Mate 🖥️  
-![Website Screenshot](https://yourimagelink.com) *(Optional)*
 
