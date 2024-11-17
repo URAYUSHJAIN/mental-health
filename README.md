@@ -37,7 +37,7 @@ A responsive, user-friendly design ensures seamless navigation and usage.
 
 ---
 
-## How to Get Started 🏁
+## How to Get Started 🏁-
 
 1. Clone the repository:
    ```bash
